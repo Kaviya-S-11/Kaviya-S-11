@@ -1,7 +1,7 @@
 # Hi, I'm **Kaviya (Kavs)** 👋
  
 - 🎓 MCA Student
-- 💻 Learning & Building projects with **Python, React, HTML/CSS, JavaScript**
+- 💻 Learning & Building projects with **Python, Machine Learning, HTML/CSS, JavaScript**
 - 🤖 Interested in **AI & automation**
 
 Linkedin: https://www.linkedin.com/in/kaviya-sakthivel115
