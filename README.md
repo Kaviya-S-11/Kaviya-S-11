@@ -17,9 +17,7 @@ I am a motivated Python developer with a strong foundation in computer science a
 - Python Developer (Fresher)
 - Software Developer Internship
 
-📫 Reach me at: kaviyasakthivel15@gmail.com  
-🔗 LinkedIn: linkedin.com/in/kaviya-sakthivel15
-
-Linkedin: https://www.linkedin.com/in/kaviya-sakthivel115
+📫 Reach me at: kaviyasakthivel115@gmail.com  
+🔗 LinkedIn: linkedin.com/in/kaviya-sakthivel115
 
 ✨ *Learning & building step by step.*
