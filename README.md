@@ -1,7 +1,7 @@
 # Hi, I'm **Kaviya (Kavs)** 👋
  
 🎓 MCA Student | 🐍 Python Developer (Fresher)
-I am a motivated Python developer with a strong foundation in computer science and hands-on experience in machine learning and computer vision projects.
+I am a motivated Python developer with a strong foundation in python, html, css, mysql and hands-on experience in web application and computer vision projects.
 
 ### 📌 Projects
 - **Credit Card Fraud Detection System**  
