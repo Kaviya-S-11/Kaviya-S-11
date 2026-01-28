@@ -4,6 +4,9 @@
 I am a motivated Python developer with a strong foundation in python, html, css, mysql and hands-on experience in web application and computer vision projects.
 
 ### 📌 Projects
+- **Rock Paper Scissor**  
+  Build a simple game using Python.
+  
 - **Credit Card Fraud Detection System**  
   Machine learning model to detect fraudulent transactions using real-world datasets.
 
