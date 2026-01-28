@@ -15,9 +15,10 @@ I am a motivated Python developer with a strong foundation in python, html, css,
 
 ### 🎯 Currently Looking For
 - Python Developer (Fresher)
-- Software Developer Internship
+- Front-end Developer (Fresher)
 
-📫 Reach me at: kaviyasakthivel115@gmail.com  
+ Reach me at
+📫 Email: kaviyasakthivel115@gmail.com  
 🔗 LinkedIn: linkedin.com/in/kaviya-sakthivel115
 
 ✨ *Learning & building step by step.*
