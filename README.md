@@ -1,6 +1,7 @@
 # Hi, I'm **Kaviya** 👋
  
 🎓 Computer Science Graduate (Fresher) | FrontEnd Developer | Angular Developer
+
 I am a motivated FrontEnd developer with a strong foundation in HTML5, CSS3, JavaScript and hands-on experience in building responsive websites. Also Skilled in Python, MySQl
 
 ### 📌 Projects
